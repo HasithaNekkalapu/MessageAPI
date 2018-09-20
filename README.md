@@ -2,7 +2,7 @@
 
  The jar file can be run by using following command
  
- --> java -jar interview-0.0.1-SNAPSHOT.jar
+ --> java -jar MessageAPI-0.0.1-SNAPSHOT.jar
  
  The following steps need to the done in order
  
